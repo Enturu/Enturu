@@ -20,6 +20,9 @@
 - TestRail
 - postman
 - JMeter
+- Robot Framework
+- Vscode
+- Quality Plus
 
 Let's connect and create quality software together! 🚀
 
